@@ -1,0 +1,597 @@
+body {
+    margin: 0;
+    line-height: normal;
+    }    
+
+.background-icon {
+    position: absolute;
+    top: 0px;
+    left: 600px;
+    width: 840px;
+    height: 670px;
+}
+.logo-child {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    border-radius: 50%;
+    background-color: #2a6f7f;
+    width: 56px;
+    height: 56px;
+}
+.n {
+    position: absolute;
+    top: 8px;
+    left: 13px;
+    display: flex;
+    align-items: center;
+    color: #f2f2f2;
+    width: 30px;
+    height: 40px;
+}
+.logo1 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 56px;
+    height: 56px;
+}
+.nideesha-nawarathna {
+    position: absolute;
+    top: 16px;
+    left: 64px;
+    font-size: 24px;
+    letter-spacing: 0.05em;
+    display: flex;
+    align-items: center;
+    width: 310px;
+    height: 24px;
+}
+.logo {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 374px;
+    height: 56px;
+    text-align: left;
+    font-size: 40px;
+}
+.home {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 54px;
+    height: 20px;
+}
+.about {
+    position: absolute;
+    top: 0px;
+    left: 94px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 54px;
+    height: 20px;
+}
+.services {
+    position: absolute;
+    top: 0px;
+    left: 188px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 76px;
+    height: 20px;
+}
+.projects {
+    position: absolute;
+    top: 0px;
+    left: 304px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 76px;
+    height: 20px;
+}
+.menu {
+    position: absolute;
+    top: 18px;
+    right: 200px;
+    width: 383px;
+    height: 20px;
+}
+.button-child {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    border-radius: 100px;
+    background-color: #2a6f7f;
+    width: 160px;
+    height: 48px;
+}
+.contact-me {
+    position: absolute;
+    top: 14px;
+    left: 28px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 104px;
+    height: 20px;
+}
+.button {
+    position: absolute;
+    top: 4px;
+    left: 1180px;
+    width: 160px;
+    height: 48px;
+}
+.navbar {
+    position: absolute;
+    top: 50px;
+    left: 50px;
+    width: 1340px;
+    height: 56px;
+}
+.image-child {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    background-color: #969090;
+    width: 420px;
+    height: 510px;
+}
+.person {
+    position: absolute;
+    top: -107px;
+    left: -126px;
+    width: 491px;
+    height: 667px;
+    object-fit: cover;
+}
+.rectangle {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    border-radius: 20px;
+    width: 480px;
+    height: 480px;
+    object-fit: cover;
+}
+.image {
+    position: absolute;
+    top: 0px;
+    left: 660px;
+    width: 420px;
+    height: 510px;
+}
+.hello-i-am {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    font-weight: 500;
+}
+.nideesha-nawarathna1 {
+    position: absolute;
+    color: #2a6f7f;
+    top: 45px;
+    left: 0px;
+    letter-spacing: 0.05em;
+    font-weight: 500;
+    display: flex;
+    align-items: center;
+    width: 310px;
+    height: 24px;
+}
+.ui-ux {
+    position: absolute;
+    top: 90px;
+    left: 0px;
+    font-size: 80px;
+    letter-spacing: 0.03em;
+    display: flex;
+    align-items: center;
+    width: 300px;
+    height: 80px;
+}
+.designer {
+    position: absolute;
+    top: 170px;
+    left: 110px;
+    font-size: 80px;
+    letter-spacing: 0.03em;
+    display: flex;
+    align-items: center;
+    width: 340px;
+    height: 80px;
+}
+.heading {
+    position: absolute;
+    top: 76px;
+    left: 0px;
+    width: 450px;
+    height: 247px;
+}
+.header1 {
+    position: absolute;
+    top: 160px;
+    left: 50px;
+    width: 1080px;
+    height: 510px;
+    text-align: left;
+    font-size: 24px;
+}
+.header-child {
+    position: absolute;
+    top: 719px;
+    left: 49px;
+    border-top: 2px solid #2a6f7f;
+    box-sizing: border-box;
+    width: 1342px;
+    height: 2px;
+}
+.header {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 1440px;
+    height: 720px;
+    overflow: hidden;
+    text-align: center;
+    font-size: 20px;
+}
+.about-me1 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    letter-spacing: 0.05em;
+    display: flex;
+    align-items: center;
+    width: 170px;
+    height: 24px;
+    white-space: nowrap;
+}
+.hello {
+    margin: 0;
+}
+.hello-im-nideesha-container1 {
+    line-break: break-all;
+    width: 100%;
+}
+.hello-im-nideesha-container {
+    position: absolute;
+    top: 56px;
+    left: 0px;
+    font-size: 22px;
+    line-height: 32px;
+    display: flex;
+    align-items: center;
+    width: 700px;
+}
+.about-me {
+    position: absolute;
+    top: 236px;
+    left: 600px;
+    width: 700px;
+    height: 248px;
+}
+.image-item {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    background-color: #969090;
+    width: 480px;
+    height: 480px;
+    border-radius: 20px;
+}
+.image1 {
+    position: absolute;
+    top: 120px;
+    left: 80px;
+    width: 480px;
+    height: 480px;
+}
+.about1 {
+    position: absolute;
+    top: 720px;
+    left: 0px;
+    width: 1440px;
+    height: 720px;
+    overflow: hidden;
+}
+.my-latest-projects {
+    position: absolute;
+    top: 50px;
+    left: 50px;
+    letter-spacing: 0.05em;
+    display: flex;
+    align-items: center;
+    width: 300px;
+    height: 24px;
+}
+.projects-child {
+    position: absolute;
+    top: 1px;
+    left: 0px;
+    background-color: #969090;
+    width: 320px;
+    height: 370px;
+    border-radius: 10px;
+}
+.projects-item {
+    position: absolute;
+    top: 0px;
+    left: 566px;
+    background-color: #f2f2f2;
+    width: 320px;
+    height: 370px;
+    border-radius: 10px;
+}
+.nft-store-web {
+    position: absolute;
+    top: 395px;
+    left: 0px;
+    letter-spacing: 0.05em;
+    font-weight: 500;
+    display: flex;
+    align-items: center;
+    width: 222px;
+    height: 24px;
+}
+.music-app {
+    position: absolute;
+    top: 395px;
+    left: 566px;
+    letter-spacing: 0.05em;
+    font-weight: 500;
+    display: flex;
+    align-items: center;
+    width: 126px;
+    height: 24px;
+}
+.nft-store-icon {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    border-radius: 10px;
+    width: 320px;
+    height: 370px;
+    object-fit: cover;
+}
+.music-app-icon {
+    position: absolute;
+    top: 0px;
+    left: 566px;
+    border-radius: 10px;
+    width: 170px;
+    height: 370px;
+    object-fit: cover;
+}
+.projects2 {
+    position: absolute;
+    top: 151px;
+    left: 277px;
+    width: 886px;
+    height: 419px;
+    font-size: 24px;
+}
+.projects1 {
+    position: absolute;
+    top: 1440px;
+    left: 0px;
+    width: 1440px;
+    height: 720px;
+    overflow: hidden;
+}
+.lets-discuss-your {
+    position: absolute;
+    top: 110px;
+    left: calc(50% - 258px);
+    letter-spacing: 0.05em;
+    font-weight: 600;
+    display: flex;
+    align-items: center;
+    width: 516px;
+    height: 40px;
+    white-space: nowrap;
+}
+.write-to-me {
+    position: absolute;
+    top: 166px;
+    left: calc(50% - 62px);
+    font-size: 24px;
+    display: flex;
+    align-items: center;
+    width: 124px;
+    height: 24px;
+    color: #2a6f7f;
+}
+.button-item {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    border-radius: 10px;
+    background-color: #2a6f7f;
+    width: 160px;
+    height: 48px;
+}
+.button2 {
+    position: absolute;
+    top: 0px;
+    left: 540px;
+    width: 160px;
+    height: 48px;
+}
+.email-child {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    border-radius: 10px;
+    border: 1px solid #0a0909;
+    box-sizing: border-box;
+    width: 500px;
+    height: 48px;
+}
+.enter-your-email {
+    position: absolute;
+    top: calc(50% - 9px);
+    left: 16px;
+    display: flex;
+    align-items: center;
+    width: 120px;
+    height: 18px;
+    opacity: 0.4;
+}
+.email {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 500px;
+    height: 48px;
+    text-align: left;
+    font-size: 16px;
+}
+.button1 {
+    position: absolute;
+    top: 270px;
+    left: 370px;
+    width: 700px;
+    height: 48px;
+    text-align: center;
+    font-size: 20px;
+}
+.social-media-icon {
+    position: absolute;
+    top: 398px;
+    left: 632px;
+    width: 176px;
+    height: 32px;
+}
+.contact-us-child {
+    position: absolute;
+    top: 539px;
+    left: 49px;
+    border-top: 2px solid #0a0909;
+    box-sizing: border-box;
+    width: 1342px;
+    height: 2px;
+}
+.contact-us {
+    position: absolute;
+    top: 2160px;
+    left: 0px;
+    width: 1440px;
+    height: 540px;
+    overflow: hidden;
+    font-size: 40px;
+}
+.logo2 {
+    position: absolute;
+    top: 50px;
+    left: 533px;
+    width: 374px;
+    height: 56px;
+    text-align: left;
+    font-size: 40px;
+}
+.about2 {
+    position: absolute;
+    top: 0px;
+    left: 134px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 54px;
+    height: 20px;
+}
+.services1 {
+    position: absolute;
+    top: 0px;
+    left: 268px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 76px;
+    height: 20px;
+}
+.projects3 {
+    position: absolute;
+    top: 0px;
+    left: 424px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 76px;
+    height: 20px;
+}
+.menu1 {
+    position: absolute;
+    top: 146px;
+    left: calc(50% - 250px);
+    width: 500px;
+    height: 20px;
+    font-size: 20px;
+}
+.footer-child {
+    position: absolute;
+    top: 230px;
+    left: 0px;
+    background-color: #2a6f7f;
+    width: 1440px;
+    height: 64px;
+}
+.all-rights-reserved {
+    position: absolute;
+    top: 254px;
+    left: 430px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 180px;
+    height: 16px;
+    color:#f2f2f2;
+}
+.designed-by-nideesha {
+    position: absolute;
+    top: 254px;
+    left: 760px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 250px;
+    height: 16px;
+    color: #f2f2f2;
+}
+.icon-park-outlinehandle-c {
+    position: absolute;
+    top: 254px;
+    left: 406px;
+    width: 16px;
+    height: 16px;
+    overflow: hidden;
+}
+.footer {
+    position: absolute;
+    top: 2700px;
+    left: 0px;
+    width: 1440px;
+    height: 294px;
+    overflow: hidden;
+    text-align: center;
+    font-size: 16px;
+}
+.landing-page {
+    position: relative;
+    background-color: #f2f2f2;
+    width: 100%;
+    height: 2994px;
+    overflow: hidden;
+    text-align: left;
+    font-size: 32px;
+    color: #0a0909;
+    font-family: Roboto;
+}
+
