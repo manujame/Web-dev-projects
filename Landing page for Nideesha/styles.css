@@ -236,7 +236,7 @@ body {
 .header {
     position: absolute;
     top: 0px;
-    left: 0px;
+    left: -43px;
     width: 1440px;
     height: 720px;
     overflow: hidden;
